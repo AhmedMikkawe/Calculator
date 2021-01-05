@@ -22,6 +22,8 @@ body{
     -webkit-box-shadow: inset 0px 0px 16px -3px #000000; 
     box-shadow: inset 0px 0px 16px -3px #000000;
     border-radius: 5px;
+    min-height: 60px;
+    direction: rtl;
 }
 .calculator-buttons{
     display: grid;
