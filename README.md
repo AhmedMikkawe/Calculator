@@ -1,10 +1,6 @@
 # Calculator
 
----
-
 ## I made this Project during going through the Odin Project Foundations Track  
-
----
 
 ### Couldn't complete this project without taking a look on this repository
 
